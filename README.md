@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Valencia</h1>
 <h3 align="center">A determined Computer Science Student at the University of Maryland</h3>
 
-- 🔭 I’m currently working on a **Poker Coach Agent**
+- 🔭 I’m currently working on a **Poker Coach AI**
 
 - 🌱 I’m currently learning **React, Node.js**
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **AI and LLMs**
 
 - 📫 How to reach me **daniel.vm2356@gmail.com**
 
