@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Poker Coach AI**
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **App development, Node.js**
 
 - 💬 Ask me about **AI and LLMs**
 
