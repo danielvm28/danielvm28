@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Valencia</h1>
 <h3 align="center">A determined Computer Science Student at the University of Maryland</h3>
 
-- 🔭 I’m currently working on a **Poker Coach AI**
+- 🔭 Check out my [Portfolio website](https://www.dvalencia.dev/)!
 
 - 🌱 I’m currently learning **App development, Node.js**
 
